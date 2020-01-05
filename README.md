@@ -4,14 +4,14 @@
 
 ## URL链接
 -	[GitHub代码URL](https://github.com/XIAOHewen/Python-final-)
--	[Pythonanywher]的URL(http:// XIAOhewenya.pythonanywhere.com)
+-	[Pythonanywher的URL](http:// XIAOhewenya.pythonanywhere.com)
 
 ## 技术文档描述
 
 #### HTML档描述
 -	所有的HTML文件放置在templates文件夹中。
 -	static文件夹中添加了css样式，其中最主要的是首页.html。
--	
+
 #### Python档描述
 -	由try.py文件运行最终结果。
 -	安装并引用cufflinks、pandas、pyecharts等模块，实现数据可视化。
