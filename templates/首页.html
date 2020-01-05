@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+    <style>
+    body{background-image: url(http://img.pintu360.com/article-title-img/20170523/8f7bb1df-9ea7-485a-b3f5-3c8d4b2b0841.jpg@%21article-detail);
+    background-size: cover;
+    }
+    </style>
+<div>
+<center>
+<header><h2>全球星巴克</h2></header>
+    <p><b>星巴克最初是一家全豆和咖啡粉，茶和香料的烘焙商和零售商，1971年在西雅图的派克市场上开设了一家商店。</b></p>
+    <p><b>该公司现在在70个国家/地区拥有24,000多家零售店。</b></p>
+</br>
+</br>
+</br>
+<select autofocus method='POST' onchange="window.location=this.value; width='30'">
+  <option>-请点击进行选择-</option>
+  <option value="/all">信息表单</option>
+  <option value="/map">全球分布图</option>
+  <option value="/chinamap">中国门店地图</option> 
+</select>
+</center>
+</div>
+</br>
+</br>
+</br>
+</br>
+{% endblock %}
