@@ -16,7 +16,7 @@
 -	由try.py文件运行最终结果。
 -	安装并引用cufflinks、pandas、pyecharts等模块，实现数据可视化。
 -	运用@app.route加入可变参数url，用get或post展示页面。
--	除首页外，还有有五个url，分别表示信息列表]、全球分布图和中国门店的地图。
+-	除首页外，还有五个url，分别表示[信息列表](http://xiaohewenya.pythonanywhere.com/all)、[全球分布图](http://xiaohewenya.pythonanywhere.com/map)和[中国门店的地图1](http://xiaohewenya.pythonanywhere.com/chinamap)、[中国门店的地图2](http://xiaohewenya.pythonanywhere.com/chinamap2)、[中国门店的地图3](http://xiaohewenya.pythonanywhere.com/chinamap3)。
 #### Web App动作描述
 -	实现了下拉框，用于筛选不同的内容。
 -	首页有三个选项可以跳转，可以分别得到总的信息列表、全球分布图和中国门店的三个地图。
